@@ -11,7 +11,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class MarketStockApiApplication {
 
     public static void main(String[] args) {
-        log.info("Start APPLICATION");
+        log.info("Start application");
         SpringApplication.run(MarketStockApiApplication.class, args);
 
     }
