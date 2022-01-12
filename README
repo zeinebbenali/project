@@ -28,4 +28,4 @@ create service:
 
 Test Swagger via :
 
-   http://localhost:8090/swagger-ui/index.html?configUrl=/v3/api-docs
+   http://localhost:8090/swagger-ui/index.html?configUrl=/
