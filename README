@@ -4,6 +4,8 @@ Build image:
 Publier l'image:
   docker image push zeinebbenali/magazin-application:1.5
 
+JE suis DANS Branche MAster
+
 Liste des containers:
   docker ps
   docker service ls
