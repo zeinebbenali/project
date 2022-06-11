@@ -1,0 +1,15 @@
+com\boot\demo\entity\Article.class
+com\boot\demo\entity\Stock$StockBuilder.class
+com\boot\demo\MarketStockApiApplication.class
+com\boot\demo\repository\StockRepository.class
+com\boot\demo\ElasticApmConfig.class
+com\boot\demo\entity\Article$ArticleBuilder.class
+com\boot\demo\repository\ArticleRepository.class
+com\boot\demo\services\service\StockeService.class
+com\boot\demo\entity\Stock.class
+com\boot\demo\controller\StockController.class
+com\boot\demo\services\ArticleServiceImpl.class
+com\boot\demo\services\StockServiceImpl.class
+com\boot\demo\controller\ArticleController.class
+com\boot\demo\services\service\ArticleService.class
+com\boot\demo\jobs\SchedulerRdv.class
